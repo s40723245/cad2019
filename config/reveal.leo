@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,64 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20191213011957.1"><vh>week2</vh>
+<v t="leo.20191213011957.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213012555.1"><vh>week3</vh>
+<v t="leo.20191213012555.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213012557.1"><vh>week4</vh>
+<v t="leo.20191213012557.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213012559.1"><vh>week5</vh>
+<v t="leo.20191213012559.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014408.1"><vh>week6</vh>
+<v t="leo.20191213014408.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014410.1"><vh>week7</vh>
+<v t="leo.20191213014410.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014412.1"><vh>week8</vh>
+<v t="leo.20191213014412.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014607.1"><vh>week9</vh>
+<v t="leo.20191213014607.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014609.1"><vh>week10</vh>
+<v t="leo.20191213014609.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014611.1"><vh>week11</vh>
+<v t="leo.20191213014611.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014612.1"><vh>week12</vh>
+<v t="leo.20191213014612.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213014625.1"><vh>week13</vh>
+<v t="leo.20191213014625.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,15 +81,13 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 電腦輔助設計實習
 
-### KMOLab
+### s40723245蔡育灃
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+* [倉儲](https://s40723245.github.io/cad2019/content/index.html)
 
-[CMSimfly 網誌](./../blog/index.html)
+* [Blog](https://s40723245.github.io/cad2019/blog/index.html)
 
 
 </t>
@@ -326,5 +357,199 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191213011957.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213011957.2">## Week2
+
+建立新倉儲並導入cmsimde
+
+
+
+
+</t>
+<t tx="leo.20191213012555.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213012555.2">## Week3
+
+編譯solvespace
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_k2VWUpOIsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191213012557.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213012557.2">## Week4
+
+自主練習
+
+
+
+
+</t>
+<t tx="leo.20191213012559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213012559.2">## Week5
+
+solvespace操作練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6nf7AtP1cXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20191213014408.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014408.2">## Week6
+
+V-rep 網際 Python remote API ython remote API 雙輪車控制模擬
+
+
+
+</t>
+<t tx="leo.20191213014410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014410.2">## Week7
+
+solvespace操作練習繪製零件18
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bCLTkb9Ieg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20191213014412.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014412.2">## Week8
+
+建立ssh連線鑰匙
+
+
+</t>
+<t tx="leo.20191213014607.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014607.2">## Week9
+
+期中成果影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/XEjRD7Qq-b4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20191213014609.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014609.2">## Week10
+
+這周開始用分組倉儲來分工合作
+
+用fork的功能來共同維護一個倉儲</t>
+<t tx="leo.20191213014611.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014611.2">## Week11
+
+Solidworks操作練習影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SLB6WYHcBDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20191213014612.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014612.2">## Week12
+
+翻譯大概內容NX12第9章-製造
+
+
+
+</t>
+<t tx="leo.20191213014625.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213014625.2">## Week13
+
+Webots操作練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUBlyTBo_P0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
