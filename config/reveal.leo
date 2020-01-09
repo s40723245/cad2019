@@ -57,6 +57,24 @@
 <v t="leo.20191213014625.1"><vh>week13</vh>
 <v t="leo.20191213014625.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200110040401.1"><vh>week13-1</vh>
+<v t="leo.20200110040401.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110035726.1"><vh>week14</vh>
+<v t="leo.20200110035726.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110035757.1"><vh>week15</vh>
+<v t="leo.20200110035757.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110035759.1"><vh>week16</vh>
+<v t="leo.20200110035759.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110035802.1"><vh>week17</vh>
+<v t="leo.20200110035802.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110035804.1"><vh>week18</vh>
+<v t="leo.20200110035804.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -548,8 +566,89 @@ Solidworks操作練習影片
 
 Webots操作練習
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUBlyTBo_P0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUBlyTBo_P0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110035726.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110035726.2">## Week14
+
+這週趕上之前沒做到的進度
+</t>
+<t tx="leo.20200110035757.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110035757.2">## Week15
+
+week15查驗
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9RxsQPFrlzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+* &lt;font size=5&gt;心得:在這學期我學到了許多東西，從一開始solidworks的繪圖到現在webots tutorial操作，要看懂NX原文書花了很多時間，不過持之以恆到最後我相信一定會有所成果。雖然我的進度比較慢，不過會慢慢跟上進度的。&lt;/font&gt;</t>
+<t tx="leo.20200110035759.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110035759.2">## Week16
+
+要畫出越野車的零件並組裝起來，這週我沒趕上進度
+
+心得:這次的小考題目很難，加上我對solvespace沒有很熟悉，導致零件只畫了一點就卡住了</t>
+<t tx="leo.20200110035802.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110035802.2">## Week17
+
+這次組裝越野車零件的時候處處碰壁，要連結零件一直出現干涉，導致時間不夠用V-rep模擬
+</t>
+<t tx="leo.20200110035804.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110035804.2">## Week18
+
+在期末10~18週，我給自己的自評分數為60分，
+我有我很多該做的東西都沒做到，因此我給自己的分數為60分
 
 </t>
+<t tx="leo.20200110040401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110040401.2">## reveal報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VO4bPbI6ZxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
